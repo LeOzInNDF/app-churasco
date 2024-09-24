@@ -11,7 +11,7 @@ import { StyleSheet } from "react-native";
 
     boxCard: {
       backgroundColor: '#ddf2ed',
-      minWidth: 150,
+      minWidth: 120,
 
       alignItems: "center",
 
